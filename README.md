@@ -10,14 +10,14 @@ Built using HTML, CSS, and Javascript
 ---
 
 
-## The Designing Process:
+## The Design Process:
 
 I wanted to create a simple, minimal, and modern look for my website. Trying to be minimalist while looking elegant has always been my goal. My first framework for my portfolio page was this:
 <br>
-<a href="https://www.figma.com/file/bReUgD0m8LfEGNfhys6yCGO9/Untitled?node-id=3%3A23"><src="images/initial.png" alt="previous /></a>
+![Previous](images/initial.png "Initial Framework")
 <br>
 I successfully integrated my initial design into a working HTML page but afterwards, I had to change the whole layout. My website now looks like this:
 <br>
-<a href="https://ncleshyne.github.io"><src="images/now.png" alt="now /></a>
+![Now](images/now.png "After")
 <br>
 
