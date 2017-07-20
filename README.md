@@ -1,4 +1,4 @@
-<h1 align="center">ncleshyne.github.io</h1>
+<h1 align="center"><a href="https://ncleshyne.github.io" target="_blank"><img width="400" height="100" alt="Nicole Shayne" src="images/l.png"></a></h1>
 <h1 align="center">
 
   <a href="https://ncleshyne.github.io" target="_blank"><img width="200" height="50" alt="Nicole Shayne" src="images/l.png"></a>
