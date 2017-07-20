@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center"><b>Personal portfolio project for Vivixx Academy Coding Bootcamp Term 1.<br>
-Built using HTML, CSS, and Javascript
+Built using HTML, CSS,Bootstrap, and Javascript
 </b></p>
 
 ---
@@ -23,5 +23,9 @@ I successfully integrated my initial design into a working HTML page but afterwa
 <br>
 
 ![Now](images/now.png "After")
-
-
+<br>
+<br>
+I added a lot of elements to my page - skills progress bar, contact form, and a footer. I also placed a bigger profile image. All photos are mine. My name logo was created using Photoshop (using a free logo font). 
+<br>
+<br>
+I will still add other elements to my website, including a portfolio. This website will be updated every now and then. 
