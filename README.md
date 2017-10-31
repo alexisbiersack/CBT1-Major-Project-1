@@ -12,7 +12,7 @@ Built using HTML, CSS,Bootstrap, and Javascript
 
 ## The Design Process:
 
-I wanted to create a simple, minimal, and modern look for my website. Trying to be minimalist while looking elegant has always been my goal. My first framework for my portfolio page was this:
+I wanted to create a simple, minimal, and modern look for my website. Trying to be minimalist while looking elegant has always been my goal. My first workframe for my portfolio page was this:
 <br>
 <br>
 ![Previous](images/initial.png "Initial Framework")
@@ -29,3 +29,12 @@ I added a lot of elements to my page - skills progress bar, contact form, and a 
 <br>
 <br>
 I will still add other elements to my website, including a portfolio. This website will be updated every now and then. 
+
+## New Design Update:
+Changes:
+- Added More skills
+- Added Portfolio
+- Improved Layout
+- Better Design
+
+![Imgur](https://i.imgur.com/jjt7QzA.png)
